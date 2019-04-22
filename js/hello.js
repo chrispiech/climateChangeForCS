@@ -1,4 +1,6 @@
-'use strict';
+import {React} from 'https://unpkg.com/react@16/umd/react.development.js';
+import {ReactDOM} from 'https://unpkg.com/react-dom@16/umd/react-dom.development.js'
+
 
 const e = React.createElement;
 
@@ -9,7 +11,9 @@ class ClimateHandout extends React.Component {
   }
 
   render() {
-    return 'happy earth day'
+    return (
+    	'happy earth day'
+    )
   }
 }
 
