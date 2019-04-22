@@ -1,5 +1,5 @@
-import * from 'react.js';
-import * from 'reactDom.js'
+import {React} from 'react.js';
+import {ReactDOM} from 'reactDom.js'
 
 
 const e = React.createElement;
