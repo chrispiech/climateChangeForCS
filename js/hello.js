@@ -1,5 +1,5 @@
-import {React} from 'https://unpkg.com/react@16/umd/react.development.js';
-import {ReactDOM} from 'https://unpkg.com/react-dom@16/umd/react-dom.development.js'
+import * from 'react.js';
+import * from 'reactDom.js'
 
 
 const e = React.createElement;
