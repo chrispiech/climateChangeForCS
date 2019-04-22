@@ -9,7 +9,7 @@ class ClimateHandout extends React.Component {
   }
 
   render() {
-    return 'hello world'
+    return 'happy earth day'
   }
 }
 
