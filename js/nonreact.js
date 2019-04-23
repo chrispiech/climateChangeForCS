@@ -1,0 +1,1 @@
+document.getElementById("climateHandout").innerHTML = "ok that worked";
